@@ -1,0 +1,11 @@
+package minseok;
+
+public class Exercise1_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num = 111;
+	      System.out.println(num - num%100);  
+	}
+
+}
